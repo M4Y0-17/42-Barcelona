@@ -3,8 +3,11 @@
 ## Descripción
 
 ◦ Este proyecto consiste en desarrollar un ransomware capaz de encriptar y desencriptar todos los archivos afectados por WannaCry
-◦ El ransomware encripta el contenido de los archivos, el nombre y su path mediante Fernet y añade la extensión .ft para que no se pueda distingir entre un archivo u otro
+
+◦ El ransomware encripta el contenido de los archivos, el nombre y su path mediante Fernet y añade la extensión .ft para que no se pueda distingir entre un  archivo u otro
+
 ◦ Este ransomware afecta a los archivos de la carpeta '~/infection' y sus subcarpetas.
+
 ◦ Este malware infecta solamente a sistemas basados en Debian
 
 
