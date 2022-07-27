@@ -14,7 +14,7 @@
 
 ```bash
 python3 stockholm.py
-
+```
 ![]()
 
 ### Flags del Programa
@@ -24,3 +24,4 @@ python3 stockholm.py
 -v / --version: Para saber la versión del programa en la que estas
 -r / --reverse: Para introducir la clave de desencriptado como parámetro
 -s / --silent: para no mostrar por pantalla los archivos que se están encriptando
+```
