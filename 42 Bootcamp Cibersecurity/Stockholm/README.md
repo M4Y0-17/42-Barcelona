@@ -29,3 +29,14 @@ python3 stockholm.py
 -r / --reverse: Para introducir la clave de desencriptado como parámetro
 -s / --silent: para no mostrar por pantalla los archivos que se están encriptando
 ```
+
+### Requisitos
+
+◦ Python 3
+
+```bash
+pip3 install colorama
+```
+```bash
+pip3 install cryptography
+```
