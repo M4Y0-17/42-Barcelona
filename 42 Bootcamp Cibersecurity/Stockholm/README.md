@@ -18,7 +18,7 @@
 ```bash
 python3 stockholm.py
 ```
-![]()
+![](https://github.com/Alexxm17/42-Barcelona/blob/main/42%20Bootcamp%20Cibersecurity/Stockholm/Stockholm.png)
 
 ### Flags del Programa
 
