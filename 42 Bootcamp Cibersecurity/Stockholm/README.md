@@ -1,4 +1,4 @@
-# Stockholm
+# 🦠 Stockholm
 
 ## Descripción
 
@@ -13,15 +13,15 @@
 
 ## Uso
 
-#### Ejecutar el programa:
+#### 💻 Ejecutar el programa:
 
 ```bash
 python3 stockholm.py
 ```
-<img src="Stockholm.png" width="350" title="use example">
+<img src="Stockholm.png" width="500" title="use example">
 
 
-### Flags del Programa
+### 🚩 Flags del Programa
 
 ```bash
 -h / --help: Para ver las flags que se permiten en el programa y para qué sirven
