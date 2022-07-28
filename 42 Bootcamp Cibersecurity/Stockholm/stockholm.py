@@ -124,9 +124,11 @@ def name_file(file_name, confirm, color):
 def decrypty(decrypt_key):
 
 	if(decrypt_key == 1):
-
-		with open("ransmkey.key", "rb") as key:
-			decrypt_key = key.read()
+		try:
+			with open("ransmkey.key", "rb") as key:
+				decrypt_key = key.read()
+		except:
+			print(Fore.RED + "Key Error: The key file doesn't exist")
 
 	for file in files:
 
